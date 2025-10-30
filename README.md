@@ -1,38 +1,13 @@
-# ProctoAI-MERN
+# Online Proctoring System-MERN
 
-ProctoAI-MERN is an Automated Exam Proctoring System (AEPS) developed with cutting-edge AI-based algorithms for online exams. This comprehensive system is designed to ensure the integrity and security of online examinations. The project leverages technologies such as React.js, Redux, Node.js, and TensorFlow.js to offer a feature-rich exam proctoring solution.
+is an Automated Exam Proctoring System (AEPS) developed with cutting-edge AI-based algorithms for online exams. This comprehensive system is designed to ensure the integrity and security of online examinations. The project leverages technologies such as React.js, Redux, Node.js, and TensorFlow.js to offer a feature-rich exam proctoring solution.
 
 ![ProctoAI-MERN](readme-images/proctoai-mern.jpg)
 
-## Table of Contents
-
-- [Tech Stack](#tech-stack)
-
-  - [Backend](#backend)
-  - [Frontend](#frontend)
-
-- [Current Functionality](#current-functionality)
-  - [User Authentication and Role Management](#user-authentication-and-role-management)
-  - [Teacher Capabilities](#teacher-capabilities)
-  - [Student Functionality](#student-functionality)
-  - [AI Exam Proctoring](#ai-exam-proctoring)
-- [Future Scope](#future-scope)
-  - [Candidate Verification](#candidate-verification)
-  - [Voice Recognition](#voice-recognition)
-  - [Secure Exam Environment](#secure-exam-environment)
-  - [Unified Portal](#unified-portal)
-- [Project Screenshots](#project-screenshots)
-  - [Login Page](#login-page)
-  - [Teacher Dashboard](#teacher-dashboard)
-  - [Exam Page](#exam-page)
-  - [Cheat Log Dashboard](#cheat-log-dashboard)
-- [How to Run](#how-to-run)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Tech Stack
 
-ProctoAI-MERN utilizes a range of technologies to provide its comprehensive functionality. The key technologies and dependencies used in this project include:
+Online proctoring system-MERN utilizes a range of technologies to provide its comprehensive functionality. The key technologies and dependencies used in this project include:
 
 ### Backend
 
